@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abdullah Tapancı, a first year computer engineering student in Turkey.
+- 👀 I’m interested in 💻coding, 🖌designing , 🏀basketball and 🎨art.
+- 🌱 I’m currently learning how to create creative, interactive and respnsive websites.
+- 📫 my e-mail address: tapanciabdullah12@gmail.com
