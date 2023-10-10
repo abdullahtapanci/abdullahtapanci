@@ -1,1 +1,2 @@
-I'm a computer engineering student and sometimes I write code.
+😎 I'm a computer engineering student.
+💻🖱 I sometimes write code.
